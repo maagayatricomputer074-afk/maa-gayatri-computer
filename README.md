@@ -1,17 +1,9 @@
-# Maa Gayatri Computer Website
+# Maa Gayatri Computer - Human Made Style
 
-GitHub Pages के लिए तैयार responsive website.
+Upload these three files to the root of your GitHub Pages repository:
+- index.html
+- style.css
+- logo.png
 
-## Upload
-1. GitHub में अपना repository खोलें.
-2. `index.html`, `style.css` और `logo.png` upload करें.
-3. Settings → Pages → Deploy from branch चुनें.
-4. Branch `main` और folder `/ (root)` चुनकर Save करें.
-
-## Website
-- Mobile responsive
-- WhatsApp button
-- Call button
-- Hindi content
-- Services cards
-- Address नीचे रखा गया है
+WhatsApp: 9575994272
+Domain: maagayatricomputer.in
